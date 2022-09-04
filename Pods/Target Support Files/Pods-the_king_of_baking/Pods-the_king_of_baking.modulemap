@@ -1,0 +1,6 @@
+framework module Pods_the_king_of_baking {
+  umbrella header "Pods-the_king_of_baking-umbrella.h"
+
+  export *
+  module * { export * }
+}
